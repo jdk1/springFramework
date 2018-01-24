@@ -8,9 +8,11 @@ Spring简化了Java企业级应用的创建。它提供企业环境Java开发的
 
 Spring supports a wide range of application scenarios. In a large enterprise, applications often exist for a long time and have to run on a JDK and application server whose upgrade cycle is beyond developer control. Others may run as a single jar with the server embedded, possibly in a cloud environment. Yet others may be standalone applications \(such as batch or integration workloads\) that do not need a server.
 
-
+Spring支持广泛的应用场景。在大企业中，一个应用程序通常存在很长时间，以致只能运行在更新周期超出了开发者控制的JDK和应用服务器上。也有一些应用作为单一的jar和服务器嵌入，可能运行在云环境中。其他的可能是独立的应用（例如批处理和集成工作负载），不需要服务器。
 
 Spring is open source. It has a large and active community that provides continuous feedback based on a diverse range of real-world use cases. This has helped Spring to successfully evolve over a very long time.
+
+Spring是开源的。拥有庞大活跃的社区，提供基于不同范围的真实例子的持续贡献反馈。这帮助Spring成功发展了很长时间。
 
 ## 1. What We Mean by "Spring" {#overview-spring}
 
