@@ -28,6 +28,8 @@ Spring Framework分为几个模块。应用可以选择需要的模块。核心�
 
 A note about modules: Spring’s framework jars allow for deployment to JDK 9’s module path \("Jigsaw"\). For use in Jigsaw-enabled applications, the Spring Framework 5 jars come with "Automatic-Module-Name" manifest entries which define stable language-level module names \("spring.core", "spring.context" etc\) independent from jar artifact names \(the jars follow the same naming pattern with "-" instead of ".", e.g. "spring-core" and "spring-context"\). Of course, Spring’s framework jars keep working fine on the classpath on both JDK 8 and 9.
 
+模块的注意事项：Spring框架的jar包允许部署在JDK9的模块路径（“Jigsaw”）。
+
 ## 2. History of Spring and the Spring Framework {#overview-history}
 
 Spring came into being in 2003 as a response to the complexity of the early[J2EE](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition)specifications. While some consider Java EE and Spring to be in competition, Spring is, in fact, complementary to Java EE. The Spring programming model does not embrace the Java EE platform specification; rather, it integrates with carefully selected individual specifications from the EE umbrella:
