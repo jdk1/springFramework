@@ -1,3 +1,2 @@
-# My Awesome Book
+准备深入学习一下springframework，虽然英语水平很差，但最终还是决定参考官方的文档进行学习。希望借此机会提交一下学习英文文档的能力，以及对springframework有一个更加深入的理解。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
