@@ -16,7 +16,11 @@ Spring是开源的。拥有庞大的活跃的社区，提供基于不同范围�
 
 ## 1. What We Mean by "Spring" {#overview-spring}
 
+# 1.Spring是什么
+
 The term "Spring" means different things in different contexts. It can be used to refer to the Spring Framework project itself, which is where it all started. Over time, other Spring projects have been built on top of the Spring Framework. Most often, when people say "Spring", they mean the entire family of projects. This reference documentation focuses on the foundation: the Spring Framework itself.
+
+术语“Spring”在不同的地方有不同的意思。
 
 The Spring Framework is divided into modules. Applications can choose which modules they need. At the heart are the modules of the core container, including a configuration model and a dependency injection mechanism. Beyond that, the Spring Framework provides foundational support for different application architectures, including messaging, transactional data and persistence, and web. It also includes the Servlet-based Spring MVC web framework and, in parallel, the Spring WebFlux reactive web framework.
 
