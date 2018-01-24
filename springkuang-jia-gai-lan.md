@@ -28,7 +28,7 @@ Spring Framework分为几个模块。应用可以选择需要的模块。核心�
 
 A note about modules: Spring’s framework jars allow for deployment to JDK 9’s module path \("Jigsaw"\). For use in Jigsaw-enabled applications, the Spring Framework 5 jars come with "Automatic-Module-Name" manifest entries which define stable language-level module names \("spring.core", "spring.context" etc\) independent from jar artifact names \(the jars follow the same naming pattern with "-" instead of ".", e.g. "spring-core" and "spring-context"\). Of course, Spring’s framework jars keep working fine on the classpath on both JDK 8 and 9.
 
-模块的注意事项：Spring框架的jar包允许部署在JDK9的模块路径（“Jigsaw”）。
+模块的注意事项：Spring框架的jar包允许部署在JDK9的模块路径（“Jigsaw”）。为了在支持Jigsaw的应用中使用，Spring Framework5的jar包来自“Automatic-Module-Name”清单条目中定义的稳定语言级模块名称（“spring.core”，“spring.context”等）独立于jar构件名（jars遵循相同的格式“-”而不是“.”，例如“spring-core”,‘“spring-context”）。当然Spring farmework的jar包在JDK8和9的classpath下都能正常运行。
 
 ## 2. History of Spring and the Spring Framework {#overview-history}
 
