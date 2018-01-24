@@ -15,7 +15,7 @@ The reference documentation is divided into several sections:
 参考文档分为以下章节：
 
 | [Core](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/core.html#spring-core) 核心 | IoC container, Events, Resources, i18n, Validation, Data Binding, Type Conversion, SpEL, AOP.                                            IoC容器，事件，资源，国际化，验证，数据绑定，类型转换，spring表达式，切面编程 |
-| :---: | :---: |
+| :--- | :--- |
 | [Testing](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/testing.html#testing)  测试 | Mock objects, TestContext framework, Spring MVC Test, WebTestClient. |
 | [Data Access](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/data-access.html#spring-data-tier) 数据访问 | Transactions, DAO support, JDBC, ORM, Marshalling XML.     事务，DAO支持，JDBC,ORM,封送处理XML |
 | [Web Servlet](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/web.html#spring-web) Web程序 | Spring MVC, WebSocket, SockJS, STOMP messaging. |
