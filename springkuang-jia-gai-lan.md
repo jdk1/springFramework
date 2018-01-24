@@ -12,7 +12,7 @@ Spring支持广泛的应用场景。在大企业中，一个应用程序通常�
 
 Spring is open source. It has a large and active community that provides continuous feedback based on a diverse range of real-world use cases. This has helped Spring to successfully evolve over a very long time.
 
-Spring是开源的。拥有庞大活跃的社区，提供基于不同范围的真实例子的持续贡献反馈。这帮助Spring成功发展了很长时间。
+Spring是开源的。拥有庞大的活跃的社区，提供基于不同范围的真实例子的持续贡献反馈。这帮助Spring成功发展了很长时间。
 
 ## 1. What We Mean by "Spring" {#overview-spring}
 
