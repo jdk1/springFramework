@@ -18,7 +18,7 @@ The reference documentation is divided into several sections:
 | :--- | :--- |
 | [Testing](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/testing.html#testing) 测试 | Mock objects, TestContext framework, Spring MVC Test, WebTestClient. |
 | [Data Access](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/data-access.html#spring-data-tier) 数据访问 | Transactions, DAO support, JDBC, ORM, Marshalling XML.     事务，DAO支持，JDBC,ORM,封送处理XML |
-| [Web Servlet](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/web.html#spring-web) Web程序 | Spring MVC, WebSocket, SockJS, STOMP messaging. |
+| [Web Servlet](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/web.html#spring-web) Web程序 | Spring MVC, WebSocket, SockJS, STOMP messaging.             |
 | [Web Reactive](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/web-reactive.html#spring-webflux) 响应式Web | Spring WebFlux, WebClient, WebSocket. |
 | [Integration](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/integration.html#spring-integration) 集成 | Remoting, JMS, JCA, JMX, Email, Tasks, Scheduling, Cache. |
 | [Languages](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/languages.html#languages) 语言 | Kotlin, Groovy, Dynamic languages. |
