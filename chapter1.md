@@ -8,7 +8,7 @@ Welcome to the Spring Framework reference documentation!
 
 Please read the [**Overview**](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/overview.html#overview) for a quick introduction including brief history, design philosophy, where to ask questions, and tips to get started. For information on "What’s New", or "Migrating from previous versions", check the [**Github Wiki**](https://github.com/spring-projects/spring-framework/wiki).
 
-简单的介绍请阅读概览，包括简史，设计原理，提问，以及开始的建议。有关“最新动态”或者“从先前版本迁移”的信息，请查看 [https://github.com/spring-projects/spring-framework/wiki](https://github.com/spring-projects/spring-framework/wiki "Github维基")。
+简单的介绍请阅读 [**概览**](/概览)，包括简史，设计原理，提问，以及开始的建议。有关“最新动态”或者“从先前版本迁移”的信息，请查看 [Github维基](/Github维基 "https://github.com/spring-projects/spring-framework/wiki")。
 
 The reference documentation is divided into several sections:
 
